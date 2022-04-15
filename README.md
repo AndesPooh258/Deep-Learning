@@ -49,6 +49,6 @@ pip install <package_name>
 ## Achievement:
 - 2nd place (out of 28 teams) in Task 1
 - 1st place (out of 31 teams) in Task 2
-- 2st place (out of  8 teams) in Task 3
+- 2nd place (out of  8 teams) in Task 3
 
 © 2022 Andes Kei
