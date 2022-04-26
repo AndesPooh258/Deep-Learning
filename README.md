@@ -2,10 +2,14 @@
 The assignments for AIST4010 Foundation of Applied Deep Learning, which are Kaggle competitions on image, sequence and graph tasks.
 
 ## Tasks:
-0. IRIS Classification
-1. Face Classification
-2. Antibiotic Resistance Genes Prediction
-3. Graph Node Classification
+Table 1. Topic and result of different tasks
+
+| Task     | Topic | Evaluation Metrics | Public Result | Private Result |
+| -----     | -----     | -----       | -----       | -----       |
+| 0 | IRIS Classification | Mean F1-Score | 1.00000 | 1.00000 |
+| 1 | Face Classification | Accuracy | 0.88440 | 0.89021 |
+| 2 | Antibiotic Resistance Genes Prediction | Macro F1-Score | 0.99018 | 0.96393 |
+| 3 | Graph Node Classification | Accuracy | 0.80386 | 0.78934 | 
 
 ## Packages Imported:
 - To install package, type the following command in a terminal:
@@ -43,8 +47,11 @@ pip install <package_name>
 1. output.csv
 	- Output file of the code
 
-2. aist4010-spring2022-a\<N\>-privateleaderboard.csv
-	- Private leaderboard used to determine the rank of Task N
+2. aist4010-spring2022-a\<N\>-publicleaderboard.csv
+	- The public leaderboard used to select the best model for Task N
+
+3. aist4010-spring2022-a\<N\>-privateleaderboard.csv
+	- The private leaderboard used to determine the rank of Task N
 
 ## Achievement:
 - 2nd place (out of 28 teams) in Task 1
