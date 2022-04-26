@@ -4,7 +4,7 @@ The assignments for AIST4010 Foundation of Applied Deep Learning, which are Kagg
 ## Tasks:
 Table 1. Topic and competition result of different tasks
 
-| Task     | Topic | Evaluation Metrics | Public Result | Private Result |
+| Task     | Topic | Evaluation Metric | Public Result | Private Result |
 | -----     | -----     | -----       | -----       | -----       |
 | 0 | IRIS Classification | Mean F1-Score | 1.00000 | 1.00000 |
 | 1 | Face Classification | Accuracy | 0.88440 | 0.89021 |
