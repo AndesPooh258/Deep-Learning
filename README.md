@@ -2,7 +2,7 @@
 The assignments for AIST4010 Foundation of Applied Deep Learning, which are Kaggle competitions on image, sequence and graph tasks.
 
 ## Tasks:
-Table 1. Topic and result of different tasks
+Table 1. Topic and competition result of different tasks
 
 | Task     | Topic | Evaluation Metrics | Public Result | Private Result |
 | -----     | -----     | -----       | -----       | -----       |
