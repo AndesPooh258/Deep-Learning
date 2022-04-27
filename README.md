@@ -17,7 +17,7 @@ Table 1. Topic and competition result of different tasks
 pip install <package_name>
 ```
 
-- General Packages:
+### General Packages:
 1. numpy: scientific computations
 2. pandas: importing and exporting data from / to csv
 3. matplotlib: graph plotting
@@ -25,15 +25,15 @@ pip install <package_name>
 5. natsort: sorting of list data
 6. torch: deep learning related algorithms
 
-- Specific Packages for Task 1:
+### Specific Packages for Task 1:
 7. torchvision: dataset and data augmentation for images
 8. facenet_pytorch: pre-trained Inception Resnet v1 model on face dataset
 
-- Specific Packages for Task 2:
+### Specific Packages for Task 2:
 9. Bio: loading protein sequence data
 10. transformers: pretrained BERT model on protein dataset and trainer
 
-- Specific Packages for Task 3:
+### Specific Packages for Task 3:
 11. torch_geometric: graph neural network algorithms
 
 ## Files:
